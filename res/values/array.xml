@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="wangnianzhenti_array">
+        <item>2014年上半年真题</item>
+        <item>2014年下半年真题</item>
+        <item>2013年上半年真题</item>
+        <item>2013年下半年真题</item>
+        
+    </string-array>
+    <string-array name="moni_array">
+        <item>单选题模拟</item>
+        <item>多选题模拟</item>
+    </string-array>
+    <string-array name="myzone_array">
+        <item>我的收藏(单选题)</item>
+        <item>我的收藏(多选题)</item>
+        <item>我的错题(单选题)</item>
+        <item>我的错题(多选题)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,51 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout 
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical">
+    <TextView 
+        android:id="@+id/zhangjie_question"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+    
+    <RadioGroup 
+       android:id="@+id/BtnGrp"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:layout_weight="1">
+       <RadioButton 
+           android:id="@+id/btnA"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="A"/>
+       <RadioButton 
+           android:id="@+id/btnB"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="B"/>
+       <RadioButton 
+           android:id="@+id/btnC"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="C"/>
+       <RadioButton
+           android:id="@+id/btnD"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="D"/>
+   </RadioGroup>
+ 
+   
+   <TextView 
+       android:id="@+id/zhangjie_jiexi"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_weight="1"/>
+   </LinearLayout>
+</ScrollView>

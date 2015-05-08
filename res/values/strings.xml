@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Education</string>
+    <string name="settings_title">设置</string>
+    <string name="wangnianzhenti_name">往年真题</string>
+    <string name="monikaoshi_name">模拟考试</string>
+    <string name="dagang_name">考试大纲</string>
+    <string name="zhangjie_name">章节练习</string>
+    <string name="title_section1">考试大纲</string>
+    <string name="title_section2">章节练习</string>
+    <string name="title_section3">往年真题</string>
+    <string name="title_section4">模拟考试</string>
+    <string name="title_section5">我的空间</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="clear_title">清除数据</string>
+	<string name="clear_summary">清除错题和收藏的题目</string>
+	<string name="update_title">软件升级</string>
+	<string name="about_me">我的信息</string>
+	<string name="about_soft">关于软件</string>
+	<string name="share_soft">分享给好友</string>
+    <string name="collect_title">收藏</string>
+    <string name="delete_title">删除</string>
+    <string name="zhangjielianxi_dialog">  确认离开吗？</string>
+
+</resources>

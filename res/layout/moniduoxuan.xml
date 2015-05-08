@@ -1,0 +1,52 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout 
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical">
+    <TextView 
+        android:id="@+id/zhangjie_question"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+    
+    <LinearLayout 
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+   <CheckBox	
+       android:id="@+id/checkA"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"/>
+	<CheckBox	
+       android:id="@+id/checkB"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"/>
+	<CheckBox	
+       android:id="@+id/checkC"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"/>
+	<CheckBox	
+       android:id="@+id/checkD"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"/>
+	<CheckBox	
+       android:id="@+id/checkE"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"/>
+	</LinearLayout>
+	<Button
+        android:id="@+id/tijiao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="提交" />
+   <TextView 
+       android:id="@+id/zhangjie_jiexi"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_weight="1"/>
+   </LinearLayout>
+</ScrollView>
