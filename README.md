@@ -5,6 +5,6 @@
 
 ![image](https://github.com/ZhongWeiFang/Education/blob/master/second.png)
 
-![image](https://github.com/ZhongWeiFang/Education/blob/master/third.jpg)
+![image](https://github.com/ZhongWeiFang/Education/blob/master/third.png)
 
-![image](https://github.com/ZhongWeiFang/Education/blob/master/four.jpg)
+![image](https://github.com/ZhongWeiFang/Education/blob/master/four.png)
